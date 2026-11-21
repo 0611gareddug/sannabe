@@ -1,0 +1,27 @@
+{
+  "name": "neon-tether",
+  "version": "1.0.0",
+  "description": "NEON TETHER - 멀티플레이 사슬 와이어 액션 게임",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs --dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0611gareddug/sannabe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0611gareddug/sannabe/issues"
+  },
+  "homepage": "https://github.com/0611gareddug/sannabe#readme",
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "javascript-obfuscator": "^4.1.1",
+    "peerjs": "^1.5.4"
+  },
+  "private": true,
+  "type": "module"
+}
